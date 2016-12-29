@@ -1,0 +1,10 @@
+[info]
+title=Filter Lines
+desc=Finds lines, which contain custom string or regex
+type=py-plugin
+subdir=syn_filter_lines
+
+[ini1]
+section=Commands
+id=Filter Lines
+params=dlg
